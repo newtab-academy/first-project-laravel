@@ -11,7 +11,7 @@
 
 Clonar o repositorio
 
-    git clone git@github.com:newtab-academy/first-project-laravel.git
+    git clone https://github.com/newtab-academy/jwt-auth-laravel.git
 
 Entrar na pasta do projeto
 
@@ -58,7 +58,7 @@ Acessar o servidor em http://localhost:8000
 
 **Lista de comandos**
 
-    git clone git@github.com:newtab-academy/first-project-laravel.git
+    git clone https://github.com/newtab-academy/jwt-auth-laravel.git
     cd first-project-laravel
     composer install
     cp .env.example .env
